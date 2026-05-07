@@ -977,5 +977,21 @@
       "name": "기타",
       "type": "expense"
     }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "홍길동",
+      "email": "demo@moneybook.com",
+      "password": "demo1234",
+      "createdAt": "2026-05-01T00:00:00"
+    },
+    {
+      "name": "테스트",
+      "email": "test@test.com",
+      "password": "test1234",
+      "createdAt": "2026-05-07T00:00:00",
+      "id": 2
+    }
   ]
 }
